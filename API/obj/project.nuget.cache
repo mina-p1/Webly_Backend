@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlJjjQG3iwU=",
+  "success": true,
+  "projectFilePath": "/Users/petermina/Desktop/Enterprise Software Systems/Projects/Assignment 2/Webly_Backend/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/petermina/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/petermina/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RestSharp' 108.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4rr6-2v9v-wcpc",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
